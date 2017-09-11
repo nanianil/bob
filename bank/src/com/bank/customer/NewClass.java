@@ -6,6 +6,10 @@ public class NewClass {
 		
 		
 	}
+	public void susss() {
+		
+		
+	} 
 	
 	//i added a comment
 
