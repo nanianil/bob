@@ -11,6 +11,11 @@ public class NewClass {
 		
 	} 
 	
+
+	public void sdusss() {
+		
+		
+	} 
 	//i added a comment
 
 }
